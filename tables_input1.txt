@@ -1,0 +1,17 @@
+**********************************SYMBOL TABLE*****************************
+
+BUFFER:-	name:BUFFER	|address:00009	|relative:00001 
+CLOOP:-	name:CLOOP	|address:00006	|relative:00001 
+ENDFIL:-	name:ENDFIL	|address:0001A	|relative:00001 
+EOF:-	name:EOF	|address:00000	|relative:00001 
+EXIT:-	name:EXIT	|address:00020	|relative:00001 
+FIRST:-	name:FIRST	|address:00000	|relative:00001 
+INPUT:-	name:INPUT	|address:01009	|relative:00001 
+LENGTH:-	name:LENGTH	|address:00006	|relative:00001 
+OUTPUT:-	name:OUTPUT	|address:0100A	|relative:00001 
+RDREC:-	name:RDREC	|address:00000	|relative:00001 
+RETADR:-	name:RETADR	|address:00003	|relative:00001 
+RLOOP:-	name:RLOOP	|address:0000A	|relative:00001 
+WLOOP:-	name:WLOOP	|address:0002B	|relative:00001 
+WRREC:-	name:WRREC	|address:00026	|relative:00001 
+
