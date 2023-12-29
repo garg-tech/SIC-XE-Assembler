@@ -1,6 +1,6 @@
 # SIC-XE-Assembler
 
-> The objective is to implement a version of a two-pass SIC/XE assembler. The Assembler we implemented includes all the SIC/XE instructions and supports all four formats 1, 2, 3, 4, addressing modes, and program relocation. It also supports a machine-independent feature i.e., program blocks.
+> The objective is to implement a version of a two-pass SIC/XE assembler. The Assembler implemented includes all the SIC/XE instructions and supports all four formats 1, 2, 3, 4, addressing modes, and program relocation. It also supports a machine-independent feature i.e., program blocks.
 
 ## Table of Contents
 * [Source Files](#source-files)
